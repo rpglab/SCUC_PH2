@@ -18,8 +18,7 @@ The detailed formulations of these four SCUC models are explained in our paper l
 
 
 ### Main Program:
-To run all SCUC models for different wind penetration levels: run python file 'run_all_SCUC.py'
-You can also run selected SCUC model(s) by commenting out other models in the for loop.
+To run all SCUC models for different wind penetration levels: run python file 'run_all_SCUC.py'. You can also run selected SCUC model(s) by commenting out other models in the for loop.
 
 ### Input data:
 * case24.mat: the IEEE 24-bus test case in matpower format 
