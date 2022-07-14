@@ -9,7 +9,7 @@ The four SCUC models are as follows:
 * Model 3: SCUC for power systems with local hydrogen energy hub (EH-SCUC) - Benchmark
 * Model 4: SCUC for power systems coupled with hydrogen conversion and transmission system (H-SCUC) - The Proposed Model
 
-The detailed formulations of these four SCUC models are explained in our <a class="off" href="/papers/JinLu-BnftAnlys-H2Grid-SCUC/"  target="_blank">paper</a>.
+The detailed formulations of these four SCUC models are explained in our paper listed below.
 
 ### Environment Setting:
 * Python version: Python 3.8.13 - Other versions may also work but test is needed.
@@ -77,11 +77,11 @@ Paper website: <a class="off" href="/papers/JinLu-BnftAnlys-H2Grid-SCUC/"  targe
 
 
 ## Contact:
-If you need any techinical support, please feel free to reach out to <a class="" href="/people/Jin-Lu/" target="_blank">Jin Lu</a> at jlu27@CougarNet.UH.EDU.
+If you need any techinical support, please feel free to reach out to Jin Lu at jlu27@CougarNet.UH.EDU.
 
-For collaboration, please contact <a class="" href="/people/Xingpeng-Li/" target="_blank">Dr. Xingpeng Li</a> at xli83@central.uh.edu.
+For collaboration, please contact Dr. Xingpeng Li at xli83@central.uh.edu.
 
-Website: <a class="off" href="/"  target="_blank">https://rpglab.github.io/</a>
+Website: https://rpglab.github.io/
 
 
 ## License:
