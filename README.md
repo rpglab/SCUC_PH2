@@ -75,6 +75,9 @@ Jin Lu and Xingpeng Li, “The Benefits of Hydrogen Energy Transmission and Conv
 Paper website: <a class="off" href="/papers/JinLu-BnftAnlys-H2Grid-SCUC/"  target="_blank">https://rpglab.github.io/papers/JinLu-BnftAnlys-H2Grid-SCUC/</a>
 
 
+## Contributions:
+This program was developed by Jin Lu. Xingpeng Li supervised this work.
+
 
 ## Contact:
 If you need any techinical support, please feel free to reach out to Jin Lu at jlu27@CougarNet.UH.EDU.
