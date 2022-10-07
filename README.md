@@ -69,7 +69,7 @@ Note that each subfolder needs to be created before runing the codes.
 ## Citation:
 If you use these codes for your work, please cite the following paper:
 
-Jin Lu and Xingpeng Li, “The Benefits of Hydrogen Energy Transmission and Conversion Systems to the Renewable Power Grids: Day-ahead Unit Commitment”, *arXiv:2206.14279*, Jun. 2022.
+Jin Lu and Xingpeng Li, “The Benefits of Hydrogen Energy Transmission and Conversion Systems to the Renewable Power Grids: Day-ahead Unit Commitment”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
 
 Paper website: <a class="off" href="/papers/JinLu-BnftAnlys-H2Grid-SCUC/"  target="_blank">https://rpglab.github.io/papers/JinLu-BnftAnlys-H2Grid-SCUC/</a>
 
