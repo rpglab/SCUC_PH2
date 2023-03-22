@@ -5,6 +5,7 @@ input is index(start from 0), output is num(start from 1)
 GenericModel_add add the power flow for branch
 '''
 # Author: Jin Lu (University of Houston)
+## link: https://rpglab.github.io/resources/
 
 # Import
 from pypower import loadcase
