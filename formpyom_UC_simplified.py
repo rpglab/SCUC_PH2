@@ -1,4 +1,6 @@
 # This code is used to form the pyomo data file for the Unit Commitment
+# Jin Lu, University of Houston
+## link: https://rpglab.github.io/resources/
 
 def pyomodata_UC_simplified(file_name,GenericModel,time_totnum,load_b_t,reg_gen_list):    # load_b_t[i][j] where i,j start from 0
     bus_str = 'param: BUS : bus_num := \n'
