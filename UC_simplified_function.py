@@ -4,6 +4,7 @@
 # User should have an executable solver to solve the optimization problem
 # The path of the solver is set in 'solve_UC' function
 # Author: Jin Lu (University of Houston)
+## link: https://rpglab.github.io/resources/
 
 # Import
 from power_mod import *
