@@ -1,5 +1,6 @@
 # This file includes functions to build and run the EH-SCUC and H-SCUC model for modified IEEE 24-bus case
 # Author: Jin Lu (University of Houston)
+## link: https://rpglab.github.io/resources/
 
 # Import
 from UC_simplified_function import *
