@@ -1,6 +1,7 @@
 # This file includes functions to build EH-SCUC, H-SCUC models
 # Electrolyzer & FC efficiency is set in the functions
 # Author: Jin Lu (University of Houston)
+## link: https://rpglab.github.io/resources/
 
 
 # Import
